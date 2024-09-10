@@ -33,4 +33,4 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/yasmin-garcía-a7a1081a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasg061" height="30" width="40" /></a>
-<a href="https://instagram.com/3d.4fun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasg061" height="30" width="40" /></a>
+<a href="https://instagram.com/yasg061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasg061" height="30" width="40" /></a>

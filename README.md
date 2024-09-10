@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yasmin</h1>
+<h2>Hi👋</h2>
 
 <!--About Me-->
 

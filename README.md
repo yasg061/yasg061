@@ -4,13 +4,19 @@
 
 ### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+🎮 Game Development & Technical Artist from El Salvador, with a passion for transforming\ 
+    complex challenges into simple, new design solutions.\
 
-🛠 I create immersive visual experiences and tools for game development.\
-🎮 I'm specialized in Unreal Engine and Blender, where I combine artistic vision with technical problem-solving to optimize and bring game environments to life.\
-🤖 I integrate Python scripting to automate workflows and use AI pipelines to enhance productivity and innovation in video game creation.\
-🚀 In my free time, I experiment with procedural generation and develop custom tools to help artists and developers streamline their workflows.\
-💬 Feel free to reach out to me for collaboration, tool development, or just to discuss interesting challenges in game development!
+  I'm specialized in Unreal Engine and Blender, where I combine artistic vision with\ 
+    technical problem-solving to optimize and bring game environments to life.\
+
+  I integrate Python scripting to automate workflows and use AI pipelines to enhance\ 
+    productivity and innovation in video game creation.\
+    
+  In my free time, I experiment with procedural generation and develop custom tools to\ 
+    help artists and developers streamline their workflows.\
+    
+  Feel free to reach out to me for collaboration, tool development, or just to discuss interesting challenges in game development!
 
 ### 🛠 &nbsp;Tech Stack
 

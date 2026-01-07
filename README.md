@@ -1,39 +1,42 @@
-<h2>Hi👋</h2>
+<h2>Hi 👋 I'm Yasmin</h2>
 
-<!--About Me-->
+### 🎮 Technical Artist · Game Developer · Web UI/UX
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me
+I specialize in creating immersive visual experiences and building tools for game and interactive environments.  
+I blend **art, code, and design** to transform complex problems into efficient, elegant solutions.
 
-🎮 Game Development & Technical Artist from El Salvador, with a passion for transforming
-    complex challenges into simple, new design solutions.
-  I'm specialized in Unreal Engine and Blender, where I combine artistic vision with
-    technical problem-solving to optimize and bring game environments to life.
-  I integrate Python scripting to automate workflows and use AI pipelines to enhance 
-    productivity and innovation in video game creation. 
-  In my free time, I experiment with procedural generation and develop custom tools to
-    help artists and developers streamline their workflows.
-    
-  Feel free to reach out to me for collaboration, tool development, or just to discuss interesting challenges in game development!
+- 🧩 Game development & technical art (Unreal Engine)
+- 🛠 Tool development & workflow automation (Python)
+- 🎨 3D environments, shaders & procedural systems
+- 🌐 Web UI/UX for interactive and game-related platforms
+- 🤖 AI-assisted pipelines for faster iteration and creativity
 
-### 🛠 &nbsp;Tech Stack
+---
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=vscode)&nbsp;\
-![Unreal Engine](https://img.shields.io/badge/-Unreal-05122A?style=flat&logo=unreal-engine)&nbsp;
-![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
-![Roblox](https://img.shields.io/badge/-Roblox-05122A?style=flat&logo=roblox)&nbsp;\
-![DaVinci](https://img.shields.io/badge/-DaVinci-05122A?style=flat&logo=davinci)&nbsp;
-![Krita](https://img.shields.io/badge/-Krita-05122A?style=flat&logo=adobe-krita)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+### 🛠 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+**Languages & Logic**  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 
-<a href="https://www.linkedin.com/in/yasmin-garcía-a7a1081a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasg061" height="30" width="40" /></a>
-<a href="https://instagram.com/yasg061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasg061" height="30" width="40" /></a>
+**Game & 3D**  
+![Unreal](https://img.shields.io/badge/-Unreal-05122A?style=flat&logo=unreal-engine)
+![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)
+![Roblox](https://img.shields.io/badge/-Roblox-05122A?style=flat&logo=roblox)
+
+**Design & UI**  
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
+
+---
+
+### 🌐 Connect with me
+
+<a href="https://www.linkedin.com/in/yasmin-garcía-a7a1081a9">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
+</a>
+<a href="https://instagram.com/yasg061">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
+</a>
